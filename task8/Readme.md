@@ -1,4 +1,4 @@
-# Git Fundamentals - Task 10
+# Git Fundamentals - Task 8
 ## Using Git Hooks for Automated Checks
  
 ---
